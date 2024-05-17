@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About Us
-
 Welcome to **JS Developer**, your go-to resource for all things JavaScript!
 
 ### Our Mission
