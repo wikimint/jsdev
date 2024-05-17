@@ -4,8 +4,8 @@ title: "Mastering JavaScript Promises"
 categories: misc
 ---
 
-## JavaScript promises
 Promises in JavaScript are a modern way to handle asynchronous operations. They represent a value that may be available now, or in the future, or never.
+## JavaScript promises
 
 ### Creating a Promise
 

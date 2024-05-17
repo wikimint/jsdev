@@ -3,8 +3,8 @@ layout: post
 title: "Exploring JavaScript ES6 Features"
 categories: misc
 ---
-## JavaScript ES6 features
 ECMAScript 6 (ES6) introduced many new features that make JavaScript more powerful and easier to write. Let's explore some of the most important ones.
+## JavaScript ES6 features
 
 ### Arrow Functions
 

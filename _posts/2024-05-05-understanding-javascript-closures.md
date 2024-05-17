@@ -4,8 +4,6 @@ title: "Understanding JavaScript Closures"
 categories: misc
 ---
 
-## Introduction
-
 Closures are one of the most powerful and often misunderstood features in JavaScript. They allow functions to retain access to variables from their containing scope even after that scope has exited.
 
 ## What is a Closure?

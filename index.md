@@ -7,5 +7,7 @@
 #
 layout: home
 ---
- <h1>JavaScript Tutorials and Coding Resources | Learn JavaScript Online</h1>
+<small>Learn JavaScript Online</small>
+ <h1>JavaScript Tutorials and Coding Resources</h1>
   <p>Discover comprehensive JavaScript tutorials, coding tips, and resources to enhance your web development skills. Learn JavaScript online with our easy-to-follow guides and examples. Stay updated with the latest trends in JavaScript development. Join our community of developers and start building amazing projects today.</p>
+  <hr/>
