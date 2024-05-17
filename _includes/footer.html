@@ -18,7 +18,14 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li>
+              &copy; 
+              <script>
+              var CurrentYear = new Date().getFullYear()
+              /*document.write(CurrentYear + ',')    */
+               document.getElementById('cright').innerHTML = CurrentYear + ','; 
+              </script>
+              <a class="u-email" href="{{ site.author.url }}">Wikimint Developer</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
