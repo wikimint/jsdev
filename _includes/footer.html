@@ -18,14 +18,14 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li>
-              &copy; 
+            <li class="small">
+              &copy; <span id="cright"></span>
               <script>
               var CurrentYear = new Date().getFullYear()
               /*document.write(CurrentYear + ',')    */
                document.getElementById('cright').innerHTML = CurrentYear + ','; 
               </script>
-              <a class="u-email" href="https://developer.wikimint.com">Wikimint Developer</a></li>
+              <a class="u-email text-secondary" href="https://developer.wikimint.com">Wikimint Developer</a> | <a class="u-email text-secondary" href="https://www.wikimint.com/p/legal.html#privacy">Privacy</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
