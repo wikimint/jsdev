@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Discover comprehensive JavaScript tutorials, coding tips, and resources to enhance your web development skills. Learn JavaScript online with our easy-to-follow guides and examples. Stay updated with the latest trends in JavaScript development. Join our community of developers and start building amazing projects today.
+  Discover comprehensive JavaScript tutorials, coding tips, and resources to enhance your web development skills. Learn JavaScript online with our easy-to-follow guides and examples.
 
 # Build settings
 
